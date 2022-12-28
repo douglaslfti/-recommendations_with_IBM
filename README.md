@@ -8,6 +8,7 @@ The project focused on analyzing iterations between users and articles on the IB
 
 1. [Libraries](#libraries)
 2. [Methods](#methods)
+3. [Files](#files)
 3. [Summary](#summary)
 4. [Acknowledgements](#Acknowledgements)
 
